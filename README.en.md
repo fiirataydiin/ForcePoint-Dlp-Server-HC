@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="Foto/en/3.png" width="800" alt="Forcepoint DLP Health Check sample report: overall summary and health findings"/>
+  <img src="/en/3.png" width="800" alt="Forcepoint DLP Health Check sample report: overall summary and health findings"/>
 </p>
 
 <hr/>
