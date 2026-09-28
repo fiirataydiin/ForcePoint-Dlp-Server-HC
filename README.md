@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="Foto/tr/3.png" width="800" alt="Forcepoint DLP Health Check örnek rapor: genel özet ve sağlık bulguları"/>
+  <img src="/tr/3.png" width="800" alt="Forcepoint DLP Health Check örnek rapor: genel özet ve sağlık bulguları"/>
 </p>
 
 <hr/>
@@ -109,15 +109,15 @@ Scriptin masaüstüne yazdığı HTML raporun bölümleri. Sunucu adları, IP ad
 
 **Sistem bilgisi ve donanım karşılaştırması**
 
-<img src="Foto/tr/1.png" width="800" alt="Sistem bilgisi ve resmi Forcepoint önerisiyle donanım karşılaştırması"/>
+<img src="/tr/1.png" width="800" alt="Sistem bilgisi ve resmi Forcepoint önerisiyle donanım karşılaştırması"/>
 
 **Genel özet ve sağlık bulguları**
 
-<img src="Foto/tr/3.png" width="800" alt="Genel özet ve sağlık bulguları"/>
+<img src="/tr/3.png" width="800" alt="Genel özet ve sağlık bulguları"/>
 
 **Etkin kanallar ve Endpoint Status**
 
-<img src="Foto/tr/6.png" width="800" alt="Etkin kanallar ve Endpoint Status: agent versiyon dağılımı, devre dışı agent'lar, bypass kodları"/>
+<img src="/tr/6.png" width="800" alt="Etkin kanallar ve Endpoint Status: agent versiyon dağılımı, devre dışı agent'lar, bypass kodları"/>
 
 <details>
 <summary><b>Diğer ekran görüntüleri (açmak için tıklayın)</b></summary>
@@ -126,27 +126,27 @@ Scriptin masaüstüne yazdığı HTML raporun bölümleri. Sunucu adları, IP ad
 
 **Forcepoint / Websense servisleri**
 
-<img src="Foto/tr/2.png" width="800" alt="Forcepoint ve Websense Windows servisleri"/>
+<img src="/tr/2.png" width="800" alt="Forcepoint ve Websense Windows servisleri"/>
 
 **Lisans durumu**
 
-<img src="Foto/tr/4.png" width="800" alt="Lisans durumu ve ürün listesi"/>
+<img src="/tr/4.png" width="800" alt="Lisans durumu ve ürün listesi"/>
 
 **Dağıtılmış bileşenler**
 
-<img src="Foto/tr/5.png" width="800" alt="Versiyon ve dağıtım durumlarıyla dağıtılmış bileşen ağacı"/>
+<img src="/tr/5.png" width="800" alt="Versiyon ve dağıtım durumlarıyla dağıtılmış bileşen ağacı"/>
 
 **Politika özeti**
 
-<img src="Foto/tr/7.png" width="800" alt="Politika özeti: toplamlar, incident üretmeyen politikalar, devre dışı politikalar"/>
+<img src="/tr/7.png" width="800" alt="Politika özeti: toplamlar, incident üretmeyen politikalar, devre dışı politikalar"/>
 
 **En çok ihlal edilen politikalar, gönderici/kullanıcılar ve incident özeti**
 
-<img src="Foto/tr/8.png" width="800" alt="En çok ihlal edilen politikalar, en çok incident üreten gönderici ve kullanıcılar, incident özeti ve arşiv parçaları"/>
+<img src="/tr/8.png" width="800" alt="En çok ihlal edilen politikalar, en çok incident üreten gönderici ve kullanıcılar, incident özeti ve arşiv parçaları"/>
 
 **Konsol kullanıcıları, roller ve entegrasyon durumu**
 
-<img src="Foto/tr/9.png" width="800" alt="Konsol kullanıcıları, roller ve entegrasyon durumu"/>
+<img src="/tr/9.png" width="800" alt="Konsol kullanıcıları, roller ve entegrasyon durumu"/>
 
 > Aynı rapor HTML dosyasının yanında otomatik olarak PDF olarak da üretilir ([Hızlı başlangıç](#-hızlı-başlangıç)).
 
