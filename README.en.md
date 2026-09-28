@@ -109,7 +109,7 @@ Sections of the HTML report the script writes to the desktop. Server names, IP a
 
 **System information and hardware comparison**
 
-<img src="/en/11.png" width="800" alt="System information and hardware comparison against the official Forcepoint recommendation"/>
+<img src="/en/1.png" width="800" alt="System information and hardware comparison against the official Forcepoint recommendation"/>
 
 **Overall summary and health findings**
 
