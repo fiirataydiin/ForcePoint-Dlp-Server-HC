@@ -109,15 +109,15 @@ Sections of the HTML report the script writes to the desktop. Server names, IP a
 
 **System information and hardware comparison**
 
-<img src="Foto/en/11.png" width="800" alt="System information and hardware comparison against the official Forcepoint recommendation"/>
+<img src="/en/1.png" width="800" alt="System information and hardware comparison against the official Forcepoint recommendation"/>
 
 **Overall summary and health findings**
 
-<img src="Foto/en/3.png" width="800" alt="Overall summary and health findings"/>
+<img src="/en/3.png" width="800" alt="Overall summary and health findings"/>
 
 **Active channels and Endpoint Status**
 
-<img src="Foto/en/6.png" width="800" alt="Active channels and Endpoint Status: agent version distribution, disabled agents, bypass codes"/>
+<img src="/en/6.png" width="800" alt="Active channels and Endpoint Status: agent version distribution, disabled agents, bypass codes"/>
 
 <details>
 <summary><b>More screenshots (click to expand)</b></summary>
@@ -126,27 +126,27 @@ Sections of the HTML report the script writes to the desktop. Server names, IP a
 
 **Forcepoint / Websense services**
 
-<img src="Foto/en/2.png" width="800" alt="Forcepoint and Websense Windows services"/>
+<img src="/en/2.png" width="800" alt="Forcepoint and Websense Windows services"/>
 
 **License status**
 
-<img src="Foto/en/4.png" width="800" alt="License status and product list"/>
+<img src="/en/4.png" width="800" alt="License status and product list"/>
 
 **Deployed components**
 
-<img src="Foto/en/5.png" width="800" alt="Deployed components tree with versions and deployment status"/>
+<img src="/en/5.png" width="800" alt="Deployed components tree with versions and deployment status"/>
 
 **Policy summary**
 
-<img src="Foto/en/7.png" width="800" alt="Policy summary: totals, policies without incidents, disabled policies"/>
+<img src="/en/7.png" width="800" alt="Policy summary: totals, policies without incidents, disabled policies"/>
 
 **Most violated policies, senders/users and incident summary**
 
-<img src="Foto/en/8.png" width="800" alt="Most violated policies, top senders and users, incident summary and archive partitions"/>
+<img src="/en/8.png" width="800" alt="Most violated policies, top senders and users, incident summary and archive partitions"/>
 
 **Console users, roles and integration status**
 
-<img src="Foto/en/9.png" width="800" alt="Console users, roles and integration status"/>
+<img src="/en/9.png" width="800" alt="Console users, roles and integration status"/>
 
 > The same report is also generated automatically as a PDF alongside the HTML file (see [Quick start](#-quick-start)).
 
